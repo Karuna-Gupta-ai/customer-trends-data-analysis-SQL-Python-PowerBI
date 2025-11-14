@@ -14,8 +14,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Report and Presentation: A clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
 https://1drv.ms/i/c/55d3fdb6cd3af785/EbsLC0lmVllBg2KW37OejjIBpv1SzkAGFIp_QnsAqNYYuw?e=0EZbtI
-"C:\Users\kgupt\OneDrive\Pictures\Screenshots\Screenshot (238).png"
-
+["C:\Users\kgupt\OneDrive\Pictures\Screenshots\Screenshot (238).png"
+](https://1drv.ms/i/c/55d3fdb6cd3af785/EbsLC0lmVllBg2KW37OejjIBpv1SzkAGFIp_QnsAqNYYuw?e=A0PiIg)
 
 1. **Data cleaning and exploration in jupyter notebook**
 
